@@ -1,0 +1,8 @@
+[package]
+name = "random"
+version = "0.1.0"
+authors = ["Toshiya Kawasaki <toshiya@abeja.asia>"]
+
+[dependencies]
+rustc-serialize = "0.3"
+getopts = "*"
